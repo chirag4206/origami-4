@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(221, 192, 214);
+}
+IMG {
+    border:dotted;
+    color:#0df804;
+    border-width: 10px;
+}
+h1{
+    color: #ec2323;
+}
+p{
+    font-size: 20;
+    font-family: Verdana;
+}
+.img:hover img{
+    transform: scale(1.2);
+}
